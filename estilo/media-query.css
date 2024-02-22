@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px){
+    #telaG{
+        height: 300px;
+        width: 550px;
+    }
+
+    .imagem{
+        padding-left: 10px;
+        float: left;
+        width: 200px;
+        height: 300px;
+    }
+
+    .forms{
+        float: right;
+        width: 300px;
+    }
+
+    p{
+        float: right;
+        width: 350px;
+    }
+}
