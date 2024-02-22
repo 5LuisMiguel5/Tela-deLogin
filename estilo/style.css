@@ -60,25 +60,27 @@ form{
     display: block;
 }
 
+
 .entrar{
     text-align: center;
     width: 230px;
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 5px;
-    background-color: rgb(41, 144, 240);
+    background-color: #DE12B2;
     display: block;
     border-radius: 7px;
     text-decoration: none;
     color: white;
 }
 
-.csenha{
+a{
     text-align: center;
     width: 230px;
     padding: 5px;
-    background-color: rgb(41, 144, 240);
+    background-color: #DE12B2;
     display: block;
+    text-decoration: none;
     border-radius: 7px;
     color: white;
 }
@@ -92,7 +94,7 @@ form{
 
 }
 
-.csenha:hover{
+a:hover{
     background-color: black;
     color: white;
     transform: translate(2px, 2px);
