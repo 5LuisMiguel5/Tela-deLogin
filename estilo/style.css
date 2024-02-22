@@ -59,10 +59,11 @@ form{
     display: block;
 }
 
-.link1{
+.entrar{
     text-align: center;
     width: 230px;
     margin-top: 10px;
+    margin-bottom: 10px;
     padding: 5px;
     background-color: rgb(41, 144, 240);
     display: block;
@@ -71,26 +72,26 @@ form{
     color: white;
 }
 
-.link2{
+.csenha{
     text-align: center;
     width: 230px;
     padding: 5px;
     background-color: rgb(41, 144, 240);
     display: block;
     border-radius: 7px;
-    text-decoration: none;
     color: white;
 }
 
-.link1:hover{
+.entrar:hover{
     background-color: black;
     color: white;
     transform: translate(2px, 2px);
     transition: transform .4 border .4 ;
+    cursor: pointer;
 
 }
 
-.link2:hover{
+.csenha:hover{
     background-color: black;
     color: white;
     transform: translate(2px, 2px);
