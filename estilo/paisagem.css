@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-@media screen and (min-width:768px){
     #telaG{
         height: 400px;
         width: 600px;
@@ -14,7 +13,7 @@
     }
 
     .Titulo{
-        margin-top: 50px;
+        margin-top: 40px;
     }
 
     .forms{
@@ -41,4 +40,3 @@
     .campo2{
         width: 281px;
     }
-}
