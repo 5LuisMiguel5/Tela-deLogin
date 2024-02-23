@@ -18,6 +18,7 @@
 body{
     background-color: blueviolet;
     background-image: linear-gradient(to top, #7012DE, #B312DE, #DE12B2);
+    background-repeat: no-repeat;
 } 
 
 main{
