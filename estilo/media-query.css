@@ -14,7 +14,7 @@
     }
 
     .Titulo{
-        margin-top: 40px;
+        margin-top: 25px;
     }
 
     .forms{
@@ -57,7 +57,7 @@
     }
 
     .Titulo{
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .forms{
@@ -86,7 +86,7 @@
     }
 }
 
-@media screen and (min-width:992px){
+@media screen and (min-width:992px) and (max-width: 1200px){
     #telaG{
         height: 450px;
         width: 750px;
@@ -100,7 +100,50 @@
     }
 
     .Titulo{
-        margin-top: 90px;
+        margin-top: 50px;
+    }
+
+    .forms{
+        float: right;
+        width: 280px;
+    }
+
+    p{
+        float: right;
+        width: 350px;
+    }
+
+    form{
+        float: right;
+        width: 100%;
+        margin-right: 30px;
+        
+    }
+
+    .campo1{
+        width: 281px;
+    }
+
+    .campo2{
+        width: 281px;
+    }
+}
+
+@media screen and (min-width:1200px){
+    #telaG{
+        height: 400px;
+        width: 750px;
+    }
+
+    .imagem{
+        padding-left: 10px;
+        float: left;
+        width: 400px;
+        height: 500px;
+    }
+
+    .Titulo{
+        margin-top: 30px;
     }
 
     .forms{
