@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+@media screen and (min-width:768px){
     #telaG{
         height: 350px;
         width: 600px;
@@ -40,3 +41,4 @@
     .campo2{
         width: 281px;
     }
+}
